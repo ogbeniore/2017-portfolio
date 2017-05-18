@@ -3,9 +3,9 @@
     "name": "oreoluwa",
     "version": "0.0.0",
     "description": "A portfolio website",
-    "main": "static-server.js",
+    "main": "index.html",
     "scripts": {
-        "start": "node index.js"
+        "start": "node server.js"
     },
 
     "author": "Oreoluwa OJO",
