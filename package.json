@@ -1,0 +1,26 @@
+{
+
+    "name": "oreoluwa",
+    "version": "0.0.0",
+    "description": "A portfolio website",
+    "main": "static-server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+
+    "author": "Oreoluwa OJO",
+    "license": "BSD-2-Clause",
+
+    "dependencies": {
+        "express": "^4.14.0",
+        "node-static": "^0.7.7",
+        "path": "^0.12.7",
+        "connect-history-api-fallback": "latest"
+
+    },
+    "engines": {
+        "node": "6.10.2",
+        "npm": "3.10.10"
+    }
+
+}
