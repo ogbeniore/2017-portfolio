@@ -1,0 +1,10 @@
+{
+    "name": "Ojo Oreoluwa Website",
+    "short_name": "Oreoluwa PWA",
+    "icons": [{
+        "src": "/assets/images/icon.png",
+        "size": "192x192"
+    }],
+    "start_url": "/index.html",
+    "display": "standalone"
+}
